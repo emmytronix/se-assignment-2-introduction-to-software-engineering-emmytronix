@@ -33,8 +33,8 @@ gathered	requirements.
 6. Maintenance: Once	deployed, the	software	is	monitored	for	issues	and	updated	as	
 needed.
 
-• Waterfall	Model: This	traditional	approach	follows	a	linear	sequence, where	each	phase	is	completed	before	moving	on	to	the	next. It's	less	flexible	but	offers	a	clear	roadmap.
-• Agile	Model: This	iterative	approach	involves	continuous	development	and	testing	in	short cycles. It's	more	adaptable	to	changing	requirements	but	requires	good	project	management.
+* Waterfall	Model: This	traditional	approach	follows	a	linear	sequence, where	each	phase	is	completed	before	moving	on	to	the	next. It's	less	flexible	but	offers	a	clear	roadmap.
+* Agile	Model: This	iterative	approach	involves	continuous	development	and	testing	in	short cycles. It's	more	adaptable	to	changing	requirements	but	requires	good	project	management.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
