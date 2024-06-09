@@ -39,11 +39,16 @@ needed.
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
 Agile	vs.	Waterfall
-Feature Agile                                                 Waterfall
-1. Approach:-     Iterative,	incremental Sequential,	          linear
-2. Requirements:- Evolve	throughout	the	project               Defined	upfront	and	fixed
-3. Flexibility:-  High                                           Low
-4. Customer Involvement:- Continuous                             Upfront	and	limited
+* Agile                                                          
+1. Approach:-     Iterative,	incremental Sequential,	          
+2. Requirements:- Evolve	throughout	the	project              
+3. Flexibility:-  High                                           
+4. Customer Involvement:- Continuous                             
+* Waterfall
+1. Approach:- linear
+2. Requirements:- Defined	upfront	and	fixed
+3. Flexibility:- Low
+4. Customer Involvement:- Upfront	and	limited
 
 When	to	choose	Agile
 1. Projects	with	unclear	or	evolving	requirements
